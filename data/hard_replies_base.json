@@ -1,0 +1,1466 @@
+[
+ {
+  "label": "interested",
+  "text": "Honestly didn't expect to reply, but this lines up with something we're scoping for Q1. Can you do Thursday after 2?",
+  "tags": [
+   "conditional_timing"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "> On Mon, Oct 19, Alex wrote:\n> Worth a quick call this week to see if it fits?\n\nok sounds good",
+  "tags": [
+   "very_short",
+   "quoted_thread"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Send the one pager. If the price makes sense we'll talk.",
+  "tags": [
+   "conditional"
+  ],
+  "also_acceptable": [
+   "question"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Not sure it's for us but my CEO asked me to look into AI for follow ups. 15 min Wednesday?",
+  "tags": [
+   "mixed_signals"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Yes.",
+  "tags": [
+   "very_short",
+   "needs_context"
+  ],
+  "also_acceptable": [],
+  "notes": "One word reply to a call request"
+ },
+ {
+  "label": "interested",
+  "text": "Sure, go ahead and book it, my calendar link is in my signature.\n\nJordan Reyes | Head of Growth\nNorthbeam Foods | Calendly: cal.example.test/jordan\nThis message is confidential and intended only for the addressee. If you are not the intended recipient please delete it.",
+  "tags": [
+   "long_signature",
+   "legal_footer"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Interesting! Looping in Dana (ops) who owns this area. Dana, thoughts? I think we should hear them out.",
+  "tags": [
+   "cc_colleague",
+   "mixed_signals"
+  ],
+  "also_acceptable": [
+   "wrong_person"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Can you call me? 415 555 0142. Best after lunch my time (PT).",
+  "tags": [
+   "phone_number",
+   "implicit_interest"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "We're evaluating 3 vendors right now, decision by end of month. Include us, send pricing and one case study.",
+  "tags": [
+   "competitive_eval"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Don't know how you got my email but I actually am looking for this lol. What does it cost?",
+  "tags": [
+   "compliance_flavor",
+   "mixed_signals"
+  ],
+  "also_acceptable": [
+   "question"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Great timing! We just lost our SDR. Free tomorrow 10am PT?",
+  "tags": [
+   "urgent_need"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Hola, suena interesante. ¿Podemos hablar el jueves? Thursday works for me.",
+  "tags": [
+   "non_english",
+   "mixed_language"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Booked a time on your calendar for next Tuesday, see you then.",
+  "tags": [
+   "already_booked"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "yes pls send detials, were open to it",
+  "tags": [
+   "typos",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Might be. Depends on integrations: we're on HubSpot. If it plugs in we'd move fast.",
+  "tags": [
+   "conditional"
+  ],
+  "also_acceptable": [
+   "question"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "I'll admit the subject line got me. Tell me more and let's set up a call.",
+  "tags": [
+   "casual"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "This is my personal email, but sure, call the office line Tuesday morning and ask for me.",
+  "tags": [
+   "wrong_channel",
+   "implicit_interest"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Thanks Alex. Yes let's do it. Please send an invite to me and Maria (maria@northbeam.example.test).",
+  "tags": [
+   "quoted_thread",
+   "cc_colleague"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Intrigued. What would a pilot look like for a team our size?",
+  "tags": [
+   "pilot_question"
+  ],
+  "also_acceptable": [
+   "question"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Love this. Pls resend your last message, my inbox ate it, and put Thursday on the calendar.",
+  "tags": [
+   "casual",
+   "implicit_interest"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "We are definitely interested in adding AI follow up. Our current vendor contract ends in March though, so let's start talking now.",
+  "tags": [
+   "conditional_timing"
+  ],
+  "also_acceptable": [
+   "not_now"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Amazing, looks like exactly what we need. Who do I pay? 😄",
+  "tags": [
+   "emoji",
+   "casual"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Hi. I've got 20 mins at 9:30 tomorrow. If you can show me the reply handling part I'd take the call.",
+  "tags": [
+   "conditional",
+   "specific_ask"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Maybe I'm being naive but this sounds too good to be true. Still, I'd like a demo, show me a real example.",
+  "tags": [
+   "skeptical_interest"
+  ],
+  "also_acceptable": [
+   "question"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Forwarded this to my business partner, we're both free Friday afternoon if you are.",
+  "tags": [
+   "forwarded",
+   "implicit_interest"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "interested",
+  "text": "Ok, you've got my attention. Not promising anything, but I'll listen. Tomorrow 3pm?",
+  "tags": [
+   "hedged",
+   "specific_ask"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Budget is frozen until the new fiscal year starts in April. Ping me at the end of March.",
+  "tags": [
+   "dated_follow_up"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Not this quarter. Circle back in January?",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "We literally just signed with someone else yesterday. 12 month contract, so maybe next year.",
+  "tags": [
+   "competitor_signed"
+  ],
+  "also_acceptable": [
+   "not_interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Interesting, but we are in the middle of migrating to a new CRM and can't touch anything for about 6 months. Reach out in the spring.",
+  "tags": [
+   "dated_follow_up",
+   "polite"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "I'm travelling for 3 weeks and won't get to this. Try me again after the 20th.",
+  "tags": [
+   "travel",
+   "dated_follow_up"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Not now. Our board decides on tooling in Q1.",
+  "tags": [
+   "very_short",
+   "board"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Talk to me after we close our funding round, should be December.",
+  "tags": [
+   "dated_follow_up"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Maybe someday, don't hold your breath. Check in next summer.",
+  "tags": [
+   "hedged"
+  ],
+  "also_acceptable": [
+   "not_interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Could you send this again in 90 days?",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "We're heads down on a product launch until mid November. After that, yes, let's chat.",
+  "tags": [
+   "dated_follow_up",
+   "positive"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Thank you for the detailed note. We review new vendors twice a year, in March and September, so I've added you to the March list.",
+  "tags": [
+   "process",
+   "polite"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Too busy this week, bad week honestly. Can you resend next Monday?",
+  "tags": [
+   "casual"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "> On Fri, Oct 16 Alex wrote:\n> Want to see how it works?\n\nRemind me after Thanksgiving",
+  "tags": [
+   "quoted_thread",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "We're in a hiring freeze, so no new tools until it lifts. I'll let you know.",
+  "tags": [
+   "freeze"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Love the idea, honestly. But our CFO banned new subscriptions until Q2.",
+  "tags": [
+   "positive",
+   "budget"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Not now, thanks. Tomorrow I'm on PTO; try me on the 20th.",
+  "tags": [
+   "very_short",
+   "dated_follow_up"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Our contract with the current vendor renews in July. Put a reminder in your calendar for June.",
+  "tags": [
+   "contract_timing"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "I need to finish the audit first. Next month?",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Ahora no, pero escríbeme en enero.",
+  "tags": [
+   "non_english",
+   "dated_follow_up"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "busy rn. after the 15th",
+  "tags": [
+   "very_short",
+   "typos"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Maybe later this year, keep me on the list.",
+  "tags": [
+   "very_short",
+   "hedged"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Our IT is reviewing all new tools after an incident. 8 week pause on anything new.",
+  "tags": [
+   "freeze",
+   "security"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Pass for now, but sounds relevant for next year's plan. Planning starts in September.",
+  "tags": [
+   "dated_follow_up"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "Not in the budget this year, but I'd like to see this again when we plan in September.",
+  "tags": [
+   "dated_follow_up",
+   "budget"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_now",
+  "text": "We have budget approved for January. Let's talk in December.",
+  "tags": [
+   "dated_follow_up",
+   "positive"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "We have this covered in house, thanks.",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "We tried something like this last year and it didn't work for us.",
+  "tags": [
+   "past_experience"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Not for us, but good luck with it.",
+  "tags": [
+   "very_short",
+   "polite"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "I think you have the wrong idea of what we do. This isn't relevant for a nonprofit like ours.",
+  "tags": [
+   "irrelevant_fit"
+  ],
+  "also_acceptable": [
+   "wrong_person"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Oh great, another AI pitch. Hard pass.",
+  "tags": [
+   "sarcasm",
+   "rude"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "We're 3 people and I do everything myself. Don't need it, thanks.",
+  "tags": [
+   "small_company"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Not interested in AI anything.",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Honestly we don't believe in automating outreach. It's a values thing for us.",
+  "tags": [
+   "values"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Our regulator prohibits this kind of outreach, so no.",
+  "tags": [
+   "regulatory"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Thank you but we're all set with our existing provider and very happy with them.",
+  "tags": [
+   "competitor",
+   "polite"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "no",
+  "tags": [
+   "very_short",
+   "needs_context"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "No need.",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Appreciate the effort. We decided against this type of solution after a review last month.",
+  "tags": [
+   "polite",
+   "decision_made"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "If we grow past 10 people I'll reach out. Until then it's a no.",
+  "tags": [
+   "conditional",
+   "small_company"
+  ],
+  "also_acceptable": [
+   "not_now"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Nope. We use the built in tools in our CRM.",
+  "tags": [
+   "competitor"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Thanks for the info but it doesn't solve a problem we have.",
+  "tags": [
+   "polite"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Sounds like what my last agency sold us. Never again. No.",
+  "tags": [
+   "bad_experience"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "We have a policy of not taking cold outreach. Declined.",
+  "tags": [
+   "policy"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Please note we do not purchase from unsolicited vendors.",
+  "tags": [
+   "policy",
+   "legal_tone"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "My answer is the same as in the first email: no.",
+  "tags": [
+   "follow_up_exasperation"
+  ],
+  "also_acceptable": [
+   "unsubscribe"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Not a fit, thanks.\n\nCONFIDENTIALITY NOTICE: This e-mail and any attachments are for the sole use of the intended recipient and may contain privileged information.",
+  "tags": [
+   "very_short",
+   "legal_footer"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "I'll pass. The price is way beyond what we'd ever pay for this.",
+  "tags": [
+   "pricing_objection"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Decided to go with an alternative, thanks anyway.",
+  "tags": [
+   "competitor_signed"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Interesting product and nicely written email, but it's a no from me.",
+  "tags": [
+   "polite",
+   "positive_tone"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "not_interested",
+  "text": "Cool idea for someone else. We're not that company.",
+  "tags": [
+   "irrelevant_fit",
+   "casual"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "I'm not the decision maker. You want Priya Nair in ops (priya@northbeam.example.test).",
+  "tags": [
+   "redirect"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "I left the company in August. Try info@harborsupply.example.test.",
+  "tags": [
+   "left_company"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Hey, I handle IT, not sales. Forwarding this to our COO.",
+  "tags": [
+   "forwarded"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "This sounds great but I'm just an intern 😅 Contact our founder.",
+  "tags": [
+   "positive",
+   "emoji"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "You've got the wrong Alex. I'm an accountant in Leeds.",
+  "tags": [
+   "wrong_human"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "This is for a different department. Sales questions go to sales@cedarridge.example.test.",
+  "tags": [
+   "redirect"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Please contact our agency, they handle all our marketing. Ask for Mina at Brightpath.",
+  "tags": [
+   "outsourced"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "I forwarded your email to our head of growth, she makes these calls.",
+  "tags": [
+   "forwarded"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "I've not been in this role since March. Your new contact is Jess Cole.",
+  "tags": [
+   "left_role"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Not me, try my boss.",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "We outsource this entirely. Talk to our agency.",
+  "tags": [
+   "outsourced"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "I'm a student, not sure how I ended up on your list.",
+  "tags": [
+   "wrong_human"
+  ],
+  "also_acceptable": [
+   "unsubscribe"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "This is a shared inbox, nobody here buys software. Try the owner.",
+  "tags": [
+   "shared_inbox"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Wrong company, we're a dental clinic, not a software firm.",
+  "tags": [
+   "wrong_company"
+  ],
+  "also_acceptable": [
+   "not_interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "You'll want to speak to procurement.",
+  "tags": [
+   "very_short",
+   "redirect"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Dave retired last year. Contact Jess instead.",
+  "tags": [
+   "left_role"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "I'm just the assistant; Dr. Patel makes these decisions. Cc'ing her.",
+  "tags": [
+   "assistant",
+   "cc_colleague"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "That's not my department, I'll pass this along.",
+  "tags": [
+   "forwarded"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Forwarded chain below.\n---------- Forwarded message ---------\nFrom: Alex <alex@sendmail.example.test>\nSubject: Quick question about follow ups\n\nFYI @Marcus, this is more your area.",
+  "tags": [
+   "forwarded",
+   "quoted_thread"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "No soy la persona indicada. Escribe a ventas@casaluna.example.test.",
+  "tags": [
+   "non_english",
+   "redirect"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Not responsible for this. Try the studio manager.",
+  "tags": [
+   "redirect"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Hi, I'm the new owner. The previous owner sold last year, I never signed up for anything like this. The old contact is gone.",
+  "tags": [
+   "left_role",
+   "new_owner"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Ask Linda in finance, she approves all subscriptions.",
+  "tags": [
+   "redirect",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "wrong_person",
+  "text": "Sorry, you have the wrong address. This is a personal email for family.",
+  "tags": [
+   "wrong_human",
+   "personal"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Unsubscribe.",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Take me off your list or I'll report this as spam.",
+  "tags": [
+   "threat"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "This is the 4th email. Stop.",
+  "tags": [
+   "follow_up_exasperation",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Under GDPR I request deletion of my data and that you cease contacting me.",
+  "tags": [
+   "legal",
+   "privacy"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Please remove me. Not interested in anything you sell, and wrong person anyway.",
+  "tags": [
+   "mixed_intent"
+  ],
+  "also_acceptable": [
+   "not_interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "How did you get my email? Remove it from your system.",
+  "tags": [
+   "compliance_flavor",
+   "question_mixed"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Per CAN-SPAM, honor this opt out request.",
+  "tags": [
+   "legal"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "STOP",
+  "tags": [
+   "very_short",
+   "sms_style"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "I don't want any more messages from you. Delete my number.",
+  "tags": [
+   "sms_style"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Please don't contact me again.",
+  "tags": [
+   "subtle",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Stop spamming me, idiots.",
+  "tags": [
+   "rude"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "This is spam. Marked as spam.",
+  "tags": [
+   "threat",
+   "subtle"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Thanks but please take me off the list. I get too many emails.",
+  "tags": [
+   "polite"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "We have asked you before to stop. This is a final warning.",
+  "tags": [
+   "follow_up_exasperation",
+   "threat"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "My lawyer will be in touch if you email me again.",
+  "tags": [
+   "legal",
+   "threat"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "unsub",
+  "tags": [
+   "very_short",
+   "typos"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Remove me and also my colleague tim@harborsupply.example.test from your list.",
+  "tags": [
+   "multi_person"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Please stop. I'm no longer interested and please don't follow up again.",
+  "tags": [
+   "mixed_intent"
+  ],
+  "also_acceptable": [
+   "not_interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Delete this email address from your system.",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "STOP\n\n> On Tue, Oct 20, Alex wrote:\n> Just checking in once more on my last note. Did you get a chance to look?",
+  "tags": [
+   "quoted_thread",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Bitte nicht mehr kontaktieren.",
+  "tags": [
+   "non_english"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "No más correos, por favor.",
+  "tags": [
+   "non_english"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "I do not consent to marketing messages.",
+  "tags": [
+   "legal",
+   "privacy"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Opt out. I'm in California, please confirm removal under CCPA.",
+  "tags": [
+   "legal",
+   "privacy"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "unsubscribe",
+  "text": "Hi team, hope all is well. We just wrapped our offsite, the new coffee machine finally arrived, parking changed again and there is a long thread about the holiday calendar. Unrelated to all that: please unsubscribe me from your emails. Also the cafeteria menu changed and the townhall is on Friday.",
+  "tags": [
+   "long_noise",
+   "buried_request"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "How did you find me? Curious what triggered this email.",
+  "tags": [
+   "compliance_flavor"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "What does this cost?",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Is this a real person or an AI writing this?",
+  "tags": [
+   "meta"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Do you work with companies outside the US?",
+  "tags": [
+   "fit_check"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Who are your customers? Any in healthcare?",
+  "tags": [
+   "fit_check"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Can this integrate with Salesforce and Okta? Our security team insists on SSO.",
+  "tags": [
+   "integration",
+   "security"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "What's the contract length?",
+  "tags": [
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Is there a free trial? I need to know before I take it any further.",
+  "tags": [
+   "trial"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "What data do you store and where? We're in the EU.",
+  "tags": [
+   "privacy"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Is this the same company as the one I used a few years ago? Same name.",
+  "tags": [
+   "identity"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Do you have case studies in logistics?",
+  "tags": [
+   "fit_check"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Can you explain what this is in 2 sentences? I read it twice and I'm lost.",
+  "tags": [
+   "confused"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Which plan would we need for 8 salespeople?",
+  "tags": [
+   "pricing"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Is that per seat or a flat fee?",
+  "tags": [
+   "pricing",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "What happens to my data if I cancel?",
+  "tags": [
+   "privacy"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Do you replace SDRs or complement them?",
+  "tags": [
+   "fit_check"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Are you SOC 2 compliant?",
+  "tags": [
+   "security",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Which languages do your calls support?",
+  "tags": [
+   "fit_check"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Hi, which of my posts triggered this email? Curious about the logic.",
+  "tags": [
+   "compliance_flavor"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Can it write in my brand voice? Show me an example.",
+  "tags": [
+   "demo_request"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Is call recording legal in Texas?",
+  "tags": [
+   "legal"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "How long does setup take? We have no tech team.",
+  "tags": [
+   "setup"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Do you integrate with Pipedrive?",
+  "tags": [
+   "integration",
+   "very_short"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "Are the emails sent from my domain or yours?",
+  "tags": [
+   "technical"
+  ],
+  "also_acceptable": [],
+  "notes": ""
+ },
+ {
+  "label": "question",
+  "text": "What are the results for companies our size? Numbers please.",
+  "tags": [
+   "proof"
+  ],
+  "also_acceptable": [
+   "interested"
+  ],
+  "notes": ""
+ }
+]

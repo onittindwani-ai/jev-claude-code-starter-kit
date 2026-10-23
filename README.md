@@ -10,7 +10,7 @@ This kit gives you EVERYTHING in one place so you never have to figure it out al
 
 - the setup guide, a checklist, and a prompt that makes Claude Code or Codex set it all up for you;
 - a prompt that makes your AI test Jev and show you what happens;
-- a tested client, a 300 reply test with a scoreboard, break tests, and a cost calculator;
+- a tested client, a 300 reply test built to be hard (150 confusing hand written replies, 90 real inbox style ones, 60 easy ones) with a scoreboard, break tests, and a cost calculator;
 - 10 ready made decision sets for sales, support and safety (reply triage, lead fit, call outcomes, guardrails, more);
 - a Claude Code skill, commands and a CLAUDE.md or AGENTS.md snippet so your AI uses Jev wherever it fits;
 - 5 working examples (reply router, lead scoring, call outcome router, guardrail before sending, morning review list);
@@ -48,7 +48,7 @@ It works offline with a built in fake Jev, so you can learn the whole kit before
 - This is an independent kit, not made or endorsed by TypeSafe AI. Jev can be wrong, and its confidence is not the same
   as being right. Test on your own data before you trust it, and keep a person or a rule in front of risky actions.
 - Prices, versions and features change fast. Everything here was checked on 2026-10-23; see `docs/FACTS-AND-SOURCES.md`.
-- The test replies are made up and written to be clear. Real inbox mail is messier. Test your own replies too.
+- The test replies are made up. 150 are deliberately confusing, but your real inbox will still surprise you. Test your own replies too.
 - Never put your API key in chat, screenshots, videos or git. See `docs/SECURITY-AND-DATA.md`.
 
 Now open `00-SETUP-JEV.md`. Your first answer from Jev is about 5 minutes away.

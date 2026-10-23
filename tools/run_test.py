@@ -109,6 +109,27 @@ def main():
     summary.update({"avg_ms": 1000 * statistics.mean(seconds), "cost_total": cost,
                     "cost_per_1000": cost / len(rows) * 1000 if rows else 0})
 
+    also = [r.get("also_acceptable", []) for r in rows]
+    lenient = [t if (p == t or p in a) else p for t, p, a in zip(truth, jev_pred, also)]
+    summary["jev_lenient_accuracy"] = score.accuracy(truth, lenient)
+    table("LENIENT ACCURACY (counts an acceptable second label as right)", ["Jev: %5.1f%%" % (100 * summary["jev_lenient_accuracy"])])
+    by_diff = {}
+    for r, t, p in zip(rows, truth, jev_pred):
+        by_diff.setdefault(r.get("difficulty", "n/a"), []).append(t == p)
+    table("BY DIFFICULTY (strict)", ["%-8s %5.1f%%  (n=%d)" % (k, 100 * sum(v) / len(v), len(v)) for k, v in sorted(by_diff.items())])
+    by_tag = {}
+    for r, t, p in zip(rows, truth, jev_pred):
+        for tag in r.get("tags", []):
+            by_tag.setdefault(tag, []).append(t == p)
+    weak = sorted(((sum(v) / len(v), k, len(v)) for k, v in by_tag.items() if len(v) >= 4))[:8]
+    table("WEAKEST TAGS (at least 4 replies each)", ["%-22s %5.1f%%  (n=%d)" % (k, 100 * a, n) for a, k, n in weak])
+    summary["by_difficulty"] = {k: sum(v) / len(v) for k, v in by_diff.items()}
+    wrong = [(c, r, t, p) for r, t, p, c in zip(rows, truth, jev_pred, conf) if t != p and p not in r.get("also_acceptable", [])]
+    wrong.sort(key=lambda x: -x[0])
+    table("MOST DANGEROUS MISTAKES (wrong with the highest confidence)", [
+        "conf %.2f  right: %-14s Jev: %-14s | %s" % (c, t, p, r["text"].replace("\n", " ")[:80]) for c, r, t, p in wrong[:8]] or ["(none)"])
+    summary["wrong_count"] = len(wrong)
+
     per = score.per_label(truth, jev_pred, LABELS)
     table("PER TYPE (Jev)", ["%-15s precision %.2f  recall %.2f  (n=%d)" % (k, v["precision"], v["recall"], v["support"])
                              for k, v in per.items()])
@@ -132,9 +153,10 @@ def main():
         json.dump(summary, handle, indent=2)
     with open(os.path.join(args.out, "answers.csv"), "w", newline="", encoding="utf-8") as handle:
         writer = csv.writer(handle)
-        writer.writerow(["id", "right_answer", "jev", "confidence", "keyword_rule", "seconds"])
+        writer.writerow(["id", "difficulty", "right_answer", "jev", "confidence", "keyword_rule", "seconds", "tags"])
         for row, r, b in zip(rows, results, base_pred):
-            writer.writerow([row["id"], row["label"], r["pred"], round(r["conf"], 3), b, round(r["meta"]["seconds"], 3)])
+            writer.writerow([row["id"], row.get("difficulty", ""), row["label"], r["pred"], round(r["conf"], 3), b,
+                             round(r["meta"]["seconds"], 3), " ".join(row.get("tags", []))])
     print("\nSaved results/summary.json and results/answers.csv. Remember: made up replies written to be clear are easier "
           "than real inbox mail, so test your own replies too.")
     return 0

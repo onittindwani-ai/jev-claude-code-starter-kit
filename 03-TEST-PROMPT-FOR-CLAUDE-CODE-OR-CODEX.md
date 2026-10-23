@@ -22,10 +22,11 @@ PART 2. See it on sales replies
    and explain in 2 sentences what each one decided and what a real system would do next.
 
 PART 3. Run the real test
-5. Run `python3 tools/run_test.py --limit 60`. Explain: accuracy of Jev versus the plain keyword rule, the speed in
+5. Run `python3 tools/run_test.py --limit 60` (the replies are shuffled: easy, medium and deliberately confusing ones). Explain: accuracy of Jev versus the plain keyword rule, the speed in
    milliseconds, the cost per 1,000 replies, the confusion table (which types get mixed up), the calibration table
    (when Jev says 90 percent, is it right about 90 percent of the time?) and the human review rule result.
 6. If the results look good, run the full 300: `python3 tools/run_test.py`, and compare with the first 60.
+6b. Read `data/LABELING-GUIDE.md`, then show me the 'by difficulty', 'weakest tags' and 'most dangerous mistakes' sections. For each of the 5 most dangerous mistakes, say whether the label is arguable, why Jev may have chosen what it chose, and how I could fix it (a clearer question, a rule in code, or a person).
 7. Tell me: Is Jev better than the keyword rule here? Is its confidence honest? What confidence threshold would you
    choose, and what share of replies would go to a person at that threshold?
 

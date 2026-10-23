@@ -65,7 +65,7 @@ class MockServerTest(unittest.TestCase):
         out = subprocess.run([sys.executable, os.path.join(ROOT, "tools", "run_test.py"), "--limit", "24",
                               "--out", "/tmp/jev_results_test"], env=env, capture_output=True, text=True, cwd=ROOT)
         self.assertEqual(out.returncode, 0, out.stdout + out.stderr)
-        for word in ("ACCURACY", "CALIBRATION", "HUMAN REVIEW RULE", "CONFUSION"):
+        for word in ("ACCURACY", "CALIBRATION", "HUMAN REVIEW RULE", "CONFUSION", "BY DIFFICULTY", "WEAKEST TAGS", "MOST DANGEROUS MISTAKES"):
             self.assertIn(word, out.stdout)
         self.assertTrue(os.path.exists("/tmp/jev_results_test/summary.json"))
 
@@ -122,22 +122,48 @@ class ExamplesAndTemplatesTest(unittest.TestCase):
 
 
 class DatasetTest(unittest.TestCase):
-    def test_counts_and_labels(self):
-        rows = make_dataset.make_dataset(50, 7)
+    def rows(self):
+        with open(os.path.join(ROOT, "data", "replies_300.jsonl"), encoding="utf-8") as handle:
+            return [json.loads(l) for l in handle if l.strip()]
+
+    def test_counts_labels_and_difficulty(self):
+        rows = self.rows()
         self.assertEqual(len(rows), 300)
         counts = {}
         for r in rows:
             counts[r["label"]] = counts.get(r["label"], 0) + 1
         self.assertEqual(set(counts.values()), {50})
         self.assertEqual(len(counts), 6)
+        diff = {}
+        for r in rows:
+            diff[r["difficulty"]] = diff.get(r["difficulty"], 0) + 1
+        self.assertEqual(diff, {"hard": 150, "medium": 90, "easy": 60})
 
     def test_shipped_file_matches_generator(self):
-        with open(os.path.join(ROOT, "data", "replies_300.jsonl"), encoding="utf-8") as handle:
-            shipped = [json.loads(l) for l in handle if l.strip()]
-        self.assertEqual(shipped, make_dataset.make_dataset(50, 7))
+        self.assertEqual(self.rows(), make_dataset.make_dataset(7))
+
+    def test_hard_replies_are_really_diverse(self):
+        hard = [r for r in self.rows() if r["difficulty"] == "hard"]
+        self.assertEqual(len({r["text"] for r in hard}), 150)
+        tags = {t for r in hard for t in r["tags"]}
+        for needed in ("sarcasm", "mixed_intent", "quoted_thread", "non_english", "buried_request", "legal", "redirect", "very_short"):
+            self.assertIn(needed, tags)
+
+    def test_labels_and_acceptable_are_valid(self):
+        for r in self.rows():
+            self.assertIn(r["label"], make_dataset.LABELS)
+            for a in r["also_acceptable"]:
+                self.assertIn(a, make_dataset.LABELS)
+                self.assertNotEqual(a, r["label"])
+
+    def test_question_set_matches_code(self):
+        import triage_replies
+        with open(os.path.join(ROOT, "templates", "questions", "reply-triage.json"), encoding="utf-8") as handle:
+            data = json.load(handle)
+        self.assertEqual(data["questions"]["reply_type"]["criteria"], triage_replies.REPLY_TYPES)
 
     def test_no_dashes_in_data(self):
-        for name in ("replies_300.jsonl", "break_tests.json", "sample_10_replies.json"):
+        for name in ("replies_300.jsonl", "break_tests.json", "sample_10_replies.json", "hard_replies_base.json", "LABELING-GUIDE.md"):
             with open(os.path.join(ROOT, "data", name), encoding="utf-8") as handle:
                 text = handle.read()
             self.assertFalse(any(d in text for d in "\u2014\u2013"), name)

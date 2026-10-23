@@ -17,12 +17,12 @@ import sys
 import jev
 
 REPLY_TYPES = {
-    "interested": "The sender wants to talk, see a demo or get details",
-    "not_now": "The sender may be interested later and asks to be contacted later",
-    "not_interested": "The sender says no and is not interested",
-    "wrong_person": "The sender says they are not the right person or points to someone else",
-    "unsubscribe": "The sender asks to stop receiving messages",
-    "question": "The sender asks a question before deciding",
+    "interested": "The sender wants to talk, see a demo, get pricing or book a time, even if they add conditions or questions, and they are the person who will take the next step",
+    "not_now": "The sender is open to it but asks to be contacted later, or says timing, budget or a freeze blocks it for now",
+    "not_interested": "The sender declines for now and for good: no interest, no need, already covered, or a firm no, without asking to stop all contact",
+    "wrong_person": "The sender says they are not the right person or the wrong company, or points to or forwards it to someone else, even if they like the idea",
+    "unsubscribe": "The sender asks to stop, be removed, delete data or not be contacted again, in any wording or language, even if mixed with other content or buried in a long message",
+    "question": "The sender asks something before deciding (price, how it works, security, source of their email) and shows no clear decision yet",
 }
 
 

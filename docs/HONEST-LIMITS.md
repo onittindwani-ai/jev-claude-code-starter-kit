@@ -21,3 +21,7 @@ Also true: a typed answer is always in the right FORMAT, but it can still be the
 
 Also from the docs: Jev 1.14 (about 14 to 15 October 2026) added image input and longer context behind opt in headers;
 TypeSafe itself calls these features not yet production ready. This kit does not use them.
+
+The test data in this kit is built to expose these weak spots: sarcasm, mixed intent, buried requests, redirects, very short replies and
+quoted threads each have tags, and `run_test.py` prints the weakest ones. If Jev scores very high on everything, make your own harder
+replies from your real inbox (anonymised) and test again.

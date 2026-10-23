@@ -1,12 +1,42 @@
 [
-  {"id": 1, "text": "Hi, this looks interesting. Can we book a call this week? Thursday afternoon works for me."},
-  {"id": 2, "text": "I am out of the office until Monday with limited access to email. For urgent matters please contact the front desk."},
-  {"id": 3, "text": "Please remove me from your list. Do not contact me again."},
-  {"id": 4, "text": "I'm not the right person for this, but you could try Dana in operations. I'll forward your note."},
-  {"id": 5, "text": "We just signed with another provider, so please check back in six months."},
-  {"id": 6, "text": "Do you integrate with HubSpot, and how much does the team plan cost?"},
-  {"id": 7, "text": "Delivery Status Notification: your message could not be delivered to the following address."},
-  {"id": 8, "text": "Thanks for reaching out. We're not looking at anything right now."},
-  {"id": 9, "text": "Budget got approved this morning for a tool like yours. Who should I talk to to get started?"},
-  {"id": 10, "text": "Congratulations! You've been selected for a free SEO audit. Click here to claim your prize."}
+  {
+    "id": 1,
+    "text": "Honestly didn't expect to reply, but this lines up with something we're scoping for Q1. Can you do Thursday after 2?"
+  },
+  {
+    "id": 2,
+    "text": "Hi team, hope all is well. We just wrapped our offsite and the new coffee machine finally arrived. Unrelated: please unsubscribe me from your emails. Also the townhall is on Friday."
+  },
+  {
+    "id": 3,
+    "text": "I'm not the decision maker. You want Priya Nair in ops. But if it's any use, this sounds great."
+  },
+  {
+    "id": 4,
+    "text": "We literally just signed with someone else yesterday. 12 month contract, so maybe next year."
+  },
+  {
+    "id": 5,
+    "text": "Oh great, another AI pitch. Hard pass."
+  },
+  {
+    "id": 6,
+    "text": "How did you find me? Curious what triggered this email."
+  },
+  {
+    "id": 7,
+    "text": "> On Mon, Oct 19, Alex wrote:\n> Worth a quick call this week?\n\nok sounds good"
+  },
+  {
+    "id": 8,
+    "text": "Love the idea, honestly. But our CFO banned new subscriptions until Q2."
+  },
+  {
+    "id": 9,
+    "text": "Please stop. I'm no longer interested and please don't follow up again."
+  },
+  {
+    "id": 10,
+    "text": "Can this integrate with Salesforce and Okta? Our security team insists on SSO."
+  }
 ]
