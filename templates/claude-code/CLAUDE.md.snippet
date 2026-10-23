@@ -1,0 +1,11 @@
+## Jev decisions (add this to your project's CLAUDE.md)
+
+When code I ask you to write needs a fast judgment about text (route, classify, score, detect, check a draft), use Jev
+through `tools/jev.py` and follow the `jev-decisions` skill. Rules:
+- 1 specific question per judgment; combine factors in code.
+- Every decision has a confidence gate; below the threshold it goes to a person or to the main model.
+- Do not use Jev for writing, explaining, maths or dates.
+- Pin the Jev model version in production and re test before changing it.
+- The API key lives only in the `TYPESAFE_API_KEY` environment variable or a git ignored `.env`. Never ask me to paste it into chat, never print it, never commit it.
+- Anything that sends, deletes, pays or blocks needs a rule or my approval first.
+- Test on made up data first. Never use real customer data in tests.

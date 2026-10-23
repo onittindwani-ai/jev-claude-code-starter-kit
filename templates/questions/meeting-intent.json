@@ -1,0 +1,26 @@
+{
+  "name": "Meeting intent",
+  "description": "Detect booking, rescheduling and time proposals in replies.",
+  "use_when": "In reply handling, before a calendar tool is called.",
+  "thresholds": {
+    "human_if_confidence_below": 0.8
+  },
+  "questions": {
+    "wants_to_book": {
+      "type": "noul",
+      "instructions": "The sender wants to book or agrees to a meeting"
+    },
+    "proposes_a_time": {
+      "type": "noul",
+      "instructions": "The sender proposes a specific day or time"
+    },
+    "wants_to_reschedule": {
+      "type": "noul",
+      "instructions": "The sender wants to move or cancel an existing meeting"
+    },
+    "time_is_firm": {
+      "type": "noul",
+      "instructions": "The sender sounds certain about the time rather than tentative"
+    }
+  }
+}

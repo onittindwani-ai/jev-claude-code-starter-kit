@@ -1,0 +1,38 @@
+{
+  "name": "Call outcome router",
+  "description": "Turn an AI call summary or note into the next step for your system.",
+  "use_when": "After every call, with the call summary or transcript as the state, before the CRM is updated.",
+  "thresholds": {
+    "auto_if_confidence_at_least": 0.85,
+    "never_auto": [
+      "do_not_call"
+    ]
+  },
+  "questions": {
+    "outcome": {
+      "type": "choice",
+      "instructions": "What was the outcome of this call",
+      "criteria": {
+        "meeting_booked": "A meeting or demo time was agreed",
+        "callback_requested": "The person asked to be called back at a later time",
+        "voicemail": "The call went to voicemail or nobody answered",
+        "not_interested": "The person said they are not interested",
+        "wrong_number": "The number or person was wrong",
+        "do_not_call": "The person asked not to be called again"
+      }
+    },
+    "interest_level": {
+      "type": "score",
+      "instructions": "How interested the person sounded",
+      "criteria": [
+        "No interest",
+        "Mild interest",
+        "Strong interest"
+      ]
+    },
+    "next_step_agreed": {
+      "type": "noul",
+      "instructions": "A specific next step with a date or time was agreed"
+    }
+  }
+}

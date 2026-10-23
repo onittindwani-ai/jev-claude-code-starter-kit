@@ -1,0 +1,12 @@
+[
+  {"id": 1, "text": "Hi, this looks interesting. Can we book a call this week? Thursday afternoon works for me."},
+  {"id": 2, "text": "I am out of the office until Monday with limited access to email. For urgent matters please contact the front desk."},
+  {"id": 3, "text": "Please remove me from your list. Do not contact me again."},
+  {"id": 4, "text": "I'm not the right person for this, but you could try Dana in operations. I'll forward your note."},
+  {"id": 5, "text": "We just signed with another provider, so please check back in six months."},
+  {"id": 6, "text": "Do you integrate with HubSpot, and how much does the team plan cost?"},
+  {"id": 7, "text": "Delivery Status Notification: your message could not be delivered to the following address."},
+  {"id": 8, "text": "Thanks for reaching out. We're not looking at anything right now."},
+  {"id": 9, "text": "Budget got approved this morning for a tool like yours. Who should I talk to to get started?"},
+  {"id": 10, "text": "Congratulations! You've been selected for a free SEO audit. Click here to claim your prize."}
+]

@@ -1,0 +1,42 @@
+{
+  "name": "Lead fit (ideal customer)",
+  "description": "Decide if a company or person fits your ideal customer and how to prioritise.",
+  "use_when": "After you collect a company description, a role or a short bio, before any outreach or call is scheduled.",
+  "thresholds": {
+    "call_first_if_priority": "high",
+    "skip_if_fit_below": 0.3
+  },
+  "questions": {
+    "industry_fit": {
+      "type": "choice",
+      "instructions": "How well does this company match our ideal customer industry",
+      "criteria": {
+        "strong": "Clearly in the industry we serve",
+        "maybe": "Related or unclear",
+        "poor": "Not in the industry we serve"
+      }
+    },
+    "role_relevance": {
+      "type": "score",
+      "instructions": "How likely this person is to own or influence the buying decision",
+      "criteria": [
+        "Unlikely to influence",
+        "Might influence",
+        "Likely decision maker"
+      ]
+    },
+    "purchase_intent": {
+      "type": "noul",
+      "instructions": "The text shows a current need or a plan to buy something like our service"
+    },
+    "priority": {
+      "type": "choice",
+      "instructions": "How should we prioritise this lead",
+      "criteria": {
+        "high": "Contact first",
+        "medium": "Contact in the normal order",
+        "low": "Contact last or skip"
+      }
+    }
+  }
+}

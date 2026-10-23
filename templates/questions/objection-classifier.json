@@ -1,0 +1,32 @@
+{
+  "name": "Objection classifier",
+  "description": "Name the main objection in a reply or call note.",
+  "use_when": "On replies that are not a yes, to choose the right follow up angle.",
+  "thresholds": {
+    "human_if_confidence_below": 0.75
+  },
+  "questions": {
+    "objection": {
+      "type": "choice",
+      "instructions": "What is the main objection",
+      "criteria": {
+        "price": "Cost or budget",
+        "timing": "Not the right time",
+        "authority": "Needs someone else to decide",
+        "trust": "Doubts that it works or doubts the company",
+        "competitor": "Already uses another provider",
+        "need": "Does not see the need",
+        "none": "No objection stated"
+      }
+    },
+    "strength": {
+      "type": "score",
+      "instructions": "How firm the objection is",
+      "criteria": [
+        "Soft, easy to overcome",
+        "Moderate",
+        "Firm, probably final"
+      ]
+    }
+  }
+}

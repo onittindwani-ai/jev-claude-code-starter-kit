@@ -1,0 +1,36 @@
+{
+  "name": "Reply triage",
+  "description": "Sort a reply to a sales email and catch stop requests.",
+  "use_when": "Every inbound reply to cold email or follow up, before any person or AI writes back.",
+  "thresholds": {
+    "auto_if_confidence_at_least": 0.8,
+    "always_review_if": "stop_request is high but reply_type is not unsubscribe"
+  },
+  "questions": {
+    "reply_type": {
+      "type": "choice",
+      "instructions": "What type of reply is this message to a sales email",
+      "criteria": {
+        "interested": "The sender wants to talk, see a demo or get details",
+        "not_now": "The sender may be interested later and asks to be contacted later",
+        "not_interested": "The sender says no and is not interested",
+        "wrong_person": "The sender says they are not the right person or points to someone else",
+        "unsubscribe": "The sender asks to stop receiving messages",
+        "question": "The sender asks a question before deciding"
+      }
+    },
+    "stop_request": {
+      "type": "noul",
+      "instructions": "The sender asks to stop receiving messages or to be removed from the list"
+    },
+    "urgency": {
+      "type": "score",
+      "instructions": "How quickly this reply needs a human answer",
+      "criteria": [
+        "No rush",
+        "Answer within a few days",
+        "Answer today"
+      ]
+    }
+  }
+}

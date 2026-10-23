@@ -1,0 +1,300 @@
+{"id": 1, "text": "Thanks for reaching out, take me off every list you have, and do not contact this address again.\nCheers", "label": "unsubscribe"}
+{"id": 2, "text": "Thanks for your note, interesting, but we are not looking at anything until next quarter. Check back then.", "label": "not_now"}
+{"id": 3, "text": "Hello, can you follow up in the spring? We are full until then.", "label": "not_now"}
+{"id": 4, "text": "Thanks for reaching out, I'll pass on this one.\nRegards, Taylor", "label": "not_interested"}
+{"id": 5, "text": "Thanks for reaching out, we don't need the lead system. Good luck though.\nSent from my phone", "label": "not_interested"}
+{"id": 6, "text": "Hey, take me off every list you have, and do not contact this address again.\nSent from my phone, Priya", "label": "unsubscribe"}
+{"id": 7, "text": "Good morning, wrong person, I'm in finance. Forwarding you to the right contact.\nSent from my phone, Dana", "label": "wrong_person"}
+{"id": 8, "text": "Hey, great timing, we were about to start on this. Who should I loop in?\nThanks, Noor", "label": "interested"}
+{"id": 9, "text": "Hey, can you explain how this is different from what we already use?\nCheers, Alex", "label": "question"}
+{"id": 10, "text": "Good morning, no, thanks. We have an in house team for this.\nBest", "label": "not_interested"}
+{"id": 11, "text": "Hello, this is not relevant to our business.", "label": "not_interested"}
+{"id": 12, "text": "Good morning, I don't handle this. Please reach out to Priya in marketing.\nRegards", "label": "wrong_person"}
+{"id": 13, "text": "Hello, can you tell me more about how the reporting works?\nBest", "label": "question"}
+{"id": 14, "text": "Hi there, do you support calls as well as email?\nCheers, Taylor", "label": "question"}
+{"id": 15, "text": "Thanks for reaching out, I'd like to learn more and schedule 20 minutes next week.\nThanks", "label": "interested"}
+{"id": 16, "text": "Good morning, not the right contact for this, sorry. I'll forward your note.\nRegards, Taylor", "label": "wrong_person"}
+{"id": 17, "text": "Hi, we just signed with another provider, so please circle back in six months.\nRegards", "label": "not_now"}
+{"id": 18, "text": "Hi, wrong person, I'm in finance. Forwarding you to the right contact.\nBest, Sam", "label": "wrong_person"}
+{"id": 19, "text": "Hey, we just signed with another provider, so please circle back in six months.\nThanks", "label": "not_now"}
+{"id": 20, "text": "Hi, I'd like to learn more and schedule 20 minutes next week.\nThanks, Alex", "label": "interested"}
+{"id": 21, "text": "Thanks for your note, we don't need the lead system. Good luck though.\nRegards", "label": "not_interested"}
+{"id": 22, "text": "Good morning, I no longer work at this company.\nSent from my phone, Maria", "label": "wrong_person"}
+{"id": 23, "text": "Good morning, not a priority right now. Maybe in a few months.\nBest", "label": "not_now"}
+{"id": 24, "text": "Thanks for reaching out, do you support calls as well as email?\nSent from my phone", "label": "question"}
+{"id": 25, "text": "Hey, bad timing for us. Reach out again after the new year.\nBest, Jordan", "label": "not_now"}
+{"id": 26, "text": "Good morning, do you support calls as well as email?\nCheers", "label": "question"}
+{"id": 27, "text": "Hey, can you tell me more about how the reporting works?\nThanks, Taylor", "label": "question"}
+{"id": 28, "text": "Good morning, can you explain how this is different from what we already use?\nRegards", "label": "question"}
+{"id": 29, "text": "Thanks for reaching out, we have a freeze on new tools until our budget review. Try me in January.\nCheers", "label": "not_now"}
+{"id": 30, "text": "Thanks for your note, I'll pass on this one.\nRegards", "label": "not_interested"}
+{"id": 31, "text": "Good morning, happy to chat. How about Thursday at 3?\nSent from my phone, Lee", "label": "interested"}
+{"id": 32, "text": "Thanks for reaching out, you may want to talk to my colleague Chen, who owns this area.\nRegards, Noor", "label": "wrong_person"}
+{"id": 33, "text": "I did not sign up for these. Unsubscribe me immediately.\nThanks, Priya", "label": "unsubscribe"}
+{"id": 34, "text": "Thanks for your note, wrong person, I'm in finance. Forwarding you to the right contact.", "label": "wrong_person"}
+{"id": 35, "text": "Hi there, interesting, but we are not looking at anything until next quarter. Check back then.", "label": "not_now"}
+{"id": 36, "text": "Hello, that's not my area. Our operations lead is the one to ask.\nThanks, Taylor", "label": "wrong_person"}
+{"id": 37, "text": "Sounds good, send me a few times that work for you.\nRegards, Jordan", "label": "interested"}
+{"id": 38, "text": "Hey, I don't handle this. Please reach out to Lee in marketing.\nCheers", "label": "wrong_person"}
+{"id": 39, "text": "Hi there, I'll pass on this one.", "label": "not_interested"}
+{"id": 40, "text": "Thanks for reaching out, I don't handle this. Please reach out to Alex in marketing.", "label": "wrong_person"}
+{"id": 41, "text": "Not the right contact for this, sorry. I'll forward your note.\nCheers", "label": "wrong_person"}
+{"id": 42, "text": "Hey, wrong person, I'm in finance. Forwarding you to the right contact.\nBest, Dana", "label": "wrong_person"}
+{"id": 43, "text": "Hello, what does the setup involve and how long does it take?\nBest", "label": "question"}
+{"id": 44, "text": "Hello, good idea but we cannot take it on this half. Ping me later.", "label": "not_now"}
+{"id": 45, "text": "Hi, take me off every list you have, and do not contact this address again.", "label": "unsubscribe"}
+{"id": 46, "text": "Hi, you may want to talk to my colleague Alex, who owns this area.\nRegards", "label": "wrong_person"}
+{"id": 47, "text": "Hey, opt out please. No more messages.\nSent from my phone", "label": "unsubscribe"}
+{"id": 48, "text": "Thanks for your note, stop emailing me. Take me off your list now.\nSent from my phone, Noor", "label": "unsubscribe"}
+{"id": 49, "text": "Hey, do you integrate with HubSpot and Slack?\nSent from my phone", "label": "question"}
+{"id": 50, "text": "Hi, please stop sending me emails about this tool.\nSent from my phone", "label": "unsubscribe"}
+{"id": 51, "text": "Hello, take me off every list you have, and do not contact this address again.\nSent from my phone", "label": "unsubscribe"}
+{"id": 52, "text": "Good morning, we don't need the lead system. Good luck though.", "label": "not_interested"}
+{"id": 53, "text": "Hello, not now, but keep me on your list for later this year.\nRegards, Priya", "label": "not_now"}
+{"id": 54, "text": "Good morning, we just signed with another provider, so please circle back in six months.", "label": "not_now"}
+{"id": 55, "text": "Hi, sounds good, send me a few times that work for you.\nCheers, Priya", "label": "interested"}
+{"id": 56, "text": "Hi there, I did not sign up for these. Unsubscribe me immediately.\nRegards, Jordan", "label": "unsubscribe"}
+{"id": 57, "text": "Thanks for reaching out, how much does this tool cost?\nCheers", "label": "question"}
+{"id": 58, "text": "Hello, I don't handle this. Please reach out to Maria in marketing.\nCheers, Chen", "label": "wrong_person"}
+{"id": 59, "text": "Hey, interesting, but we are not looking at anything until next quarter. Check back then.\nCheers, Maria", "label": "not_now"}
+{"id": 60, "text": "Hi, no, thanks. We have an in house team for this.", "label": "not_interested"}
+{"id": 61, "text": "Good morning, not the right contact for this, sorry. I'll forward your note.", "label": "wrong_person"}
+{"id": 62, "text": "Hi, not the right contact for this, sorry. I'll forward your note.\nRegards", "label": "wrong_person"}
+{"id": 63, "text": "We don't need your service. Good luck though.\nThanks, Maria", "label": "not_interested"}
+{"id": 64, "text": "Thanks for your note, we have been looking for exactly this. I'd like to see a demo.\nCheers, Noor", "label": "interested"}
+{"id": 65, "text": "Good morning, can you follow up in the spring? We are full until then.\nCheers, Sam", "label": "not_now"}
+{"id": 66, "text": "Hey, great timing, we were about to start on this. Who should I loop in?\nThanks, Alex", "label": "interested"}
+{"id": 67, "text": "Hey, you may want to talk to my colleague Alex, who owns this area.\nBest", "label": "wrong_person"}
+{"id": 68, "text": "Hello, remove me from your mailing list.\nRegards, Alex", "label": "unsubscribe"}
+{"id": 69, "text": "Hi there, how much does the lead system cost?\nThanks", "label": "question"}
+{"id": 70, "text": "Hi, we have a freeze on new tools until our budget review. Try me in January.\nSent from my phone, Maria", "label": "not_now"}
+{"id": 71, "text": "Hey, I'll pass on this one.\nThanks, Alex", "label": "not_interested"}
+{"id": 72, "text": "Hi there, do not contact me again.\nRegards, Chen", "label": "unsubscribe"}
+{"id": 73, "text": "Hello, do you support calls as well as email?\nCheers", "label": "question"}
+{"id": 74, "text": "I'll pass on this one.\nThanks, Taylor", "label": "not_interested"}
+{"id": 75, "text": "Thanks for your note, no thank you, this is not for us.\nRegards, Dana", "label": "not_interested"}
+{"id": 76, "text": "Thanks for reaching out, do not contact me again.\nBest", "label": "unsubscribe"}
+{"id": 77, "text": "Hi, bad timing for us. Reach out again after the new year.", "label": "not_now"}
+{"id": 78, "text": "Hi there, no thank you, this is not for us.\nBest", "label": "not_interested"}
+{"id": 79, "text": "Good morning, I'd like to learn more and schedule 20 minutes next week.\nBest, Taylor", "label": "interested"}
+{"id": 80, "text": "Thanks for reaching out, not interested, thanks.\nBest, Lee", "label": "not_interested"}
+{"id": 81, "text": "Thanks for your note, we have a freeze on new tools until our budget review. Try me in January.\nBest, Chen", "label": "not_now"}
+{"id": 82, "text": "No thank you, this is not for us.\nRegards, Priya", "label": "not_interested"}
+{"id": 83, "text": "Thanks for your note, remove me from your mailing list.\nThanks, Noor", "label": "unsubscribe"}
+{"id": 84, "text": "Thanks for your note, this is not relevant to our business.\nSent from my phone, Chen", "label": "not_interested"}
+{"id": 85, "text": "Hello, sounds good, send me a few times that work for you.", "label": "interested"}
+{"id": 86, "text": "Hey, I'm not the right person for this. Try our head of operations.\nSent from my phone, Noor", "label": "wrong_person"}
+{"id": 87, "text": "Thanks for reaching out, wrong person, I'm in finance. Forwarding you to the right contact.\nCheers, Priya", "label": "wrong_person"}
+{"id": 88, "text": "Hi there, no thank you, this is not for us.\nThanks, Noor", "label": "not_interested"}
+{"id": 89, "text": "Thanks for reaching out, you may want to talk to my colleague Sam, who owns this area.\nSent from my phone", "label": "wrong_person"}
+{"id": 90, "text": "Do you integrate with HubSpot and Slack?\nSent from my phone", "label": "question"}
+{"id": 91, "text": "Hi, can you tell me more about how the reporting works?", "label": "question"}
+{"id": 92, "text": "Hi, wrong person, I'm in finance. Forwarding you to the right contact.\nCheers", "label": "wrong_person"}
+{"id": 93, "text": "Thanks for your note, let's talk. I can do Tuesday or Wednesday morning.\nCheers", "label": "interested"}
+{"id": 94, "text": "Hi, remove me from your mailing list.\nBest", "label": "unsubscribe"}
+{"id": 95, "text": "Hello, do you integrate with HubSpot and Slack?\nThanks", "label": "question"}
+{"id": 96, "text": "Hi there, thanks, but we are happy with what we have and are not looking to change.\nRegards, Alex", "label": "not_interested"}
+{"id": 97, "text": "Thanks for your note, we have a freeze on new tools until our budget review. Try me in January.\nThanks", "label": "not_now"}
+{"id": 98, "text": "Please stop sending me emails about the offer.\nRegards", "label": "unsubscribe"}
+{"id": 99, "text": "Hi, take me off every list you have, and do not contact this address again.\nBest", "label": "unsubscribe"}
+{"id": 100, "text": "Hello, this is not relevant to our business.", "label": "not_interested"}
+{"id": 101, "text": "Thanks for reaching out, not the right contact for this, sorry. I'll forward your note.\nCheers", "label": "wrong_person"}
+{"id": 102, "text": "Thanks for your note, let's talk. I can do Tuesday or Wednesday morning.\nThanks", "label": "interested"}
+{"id": 103, "text": "Hi there, great timing, we were about to start on this. Who should I loop in?\nCheers, Priya", "label": "interested"}
+{"id": 104, "text": "Hey, stop emailing me. Take me off your list now.", "label": "unsubscribe"}
+{"id": 105, "text": "Thanks for reaching out, can you follow up in the spring? We are full until then.", "label": "not_now"}
+{"id": 106, "text": "Hey, which plan would a team of 10 need?\nCheers, Alex", "label": "question"}
+{"id": 107, "text": "Good morning, I no longer work at this company.\nBest, Taylor", "label": "wrong_person"}
+{"id": 108, "text": "Thanks for your note, what does the setup involve and how long does it take?\nThanks", "label": "question"}
+{"id": 109, "text": "Thanks for reaching out, which plan would a team of 10 need?\nBest, Taylor", "label": "question"}
+{"id": 110, "text": "Hi, we have been looking for exactly this. I'd like to see a demo.\nSent from my phone, Noor", "label": "interested"}
+{"id": 111, "text": "Thanks for your note, you may want to talk to my colleague Priya, who owns this area.", "label": "wrong_person"}
+{"id": 112, "text": "Good morning, which plan would a team of 10 need?\nRegards", "label": "question"}
+{"id": 113, "text": "Hey, please stop sending me emails about the platform.\nSent from my phone", "label": "unsubscribe"}
+{"id": 114, "text": "Thanks for reaching out, this looks interesting. Can we book a call this week?\nThanks", "label": "interested"}
+{"id": 115, "text": "Thanks for reaching out, happy to chat. How about Thursday at 3?\nThanks, Alex", "label": "interested"}
+{"id": 116, "text": "Hi there, I did not sign up for these. Unsubscribe me immediately.\nBest", "label": "unsubscribe"}
+{"id": 117, "text": "Thanks for reaching out, good idea but we cannot take it on this half. Ping me later.\nRegards, Chen", "label": "not_now"}
+{"id": 118, "text": "Hello, I'm not the right person for this. Try our head of operations.\nRegards, Jordan", "label": "wrong_person"}
+{"id": 119, "text": "Thanks for reaching out, yes, I'm interested in your service. Please send the details and a link to book.\nSent from my phone, Chen", "label": "interested"}
+{"id": 120, "text": "Hello, that's not my area. Our operations lead is the one to ask.\nSent from my phone", "label": "wrong_person"}
+{"id": 121, "text": "Thanks for reaching out, thanks, but we are happy with what we have and are not looking to change.", "label": "not_interested"}
+{"id": 122, "text": "Thanks for reaching out, thanks, but we are happy with what we have and are not looking to change.\nSent from my phone", "label": "not_interested"}
+{"id": 123, "text": "Hello, I did not sign up for these. Unsubscribe me immediately.\nRegards", "label": "unsubscribe"}
+{"id": 124, "text": "Thanks for your note, that's not my area. Our operations lead is the one to ask.", "label": "wrong_person"}
+{"id": 125, "text": "Let's talk. I can do Tuesday or Wednesday morning.\nCheers", "label": "interested"}
+{"id": 126, "text": "Thanks for reaching out, no, thanks. We have an in house team for this.\nRegards, Noor", "label": "not_interested"}
+{"id": 127, "text": "Hi, this looks interesting. Can we book a call this week?\nThanks, Taylor", "label": "interested"}
+{"id": 128, "text": "Hi, we're all set on this, please don't follow up.\nSent from my phone", "label": "not_interested"}
+{"id": 129, "text": "Hey, yes, I'm interested in what you built. Please send the details and a link to book.\nCheers, Chen", "label": "interested"}
+{"id": 130, "text": "Hi, can you tell me more about how the reporting works?\nRegards, Sam", "label": "question"}
+{"id": 131, "text": "Hi there, I did not sign up for these. Unsubscribe me immediately.\nSent from my phone, Sam", "label": "unsubscribe"}
+{"id": 132, "text": "Hi there, this is not relevant to our business.", "label": "not_interested"}
+{"id": 133, "text": "Thanks for your note, can you follow up in the spring? We are full until then.\nSent from my phone", "label": "not_now"}
+{"id": 134, "text": "Thanks for reaching out, please unsubscribe me from this list.\nRegards, Priya", "label": "unsubscribe"}
+{"id": 135, "text": "Hi, how much does the platform cost?", "label": "question"}
+{"id": 136, "text": "Good morning, I'd like to learn more and schedule 20 minutes next week.\nCheers, Jordan", "label": "interested"}
+{"id": 137, "text": "Good morning, this looks interesting. Can we book a call this week?\nRegards, Priya", "label": "interested"}
+{"id": 138, "text": "Hi, I'd like to learn more and schedule 20 minutes next week.\nThanks, Sam", "label": "interested"}
+{"id": 139, "text": "Hey, we have a freeze on new tools until our budget review. Try me in January.\nSent from my phone, Priya", "label": "not_now"}
+{"id": 140, "text": "Hi there, sounds good, send me a few times that work for you.\nSent from my phone", "label": "interested"}
+{"id": 141, "text": "Thanks for reaching out, can you tell me more about how the reporting works?\nCheers, Alex", "label": "question"}
+{"id": 142, "text": "Thanks for reaching out, not interested, thanks.\nRegards, Chen", "label": "not_interested"}
+{"id": 143, "text": "Hey, do not contact me again.\nCheers", "label": "unsubscribe"}
+{"id": 144, "text": "Thanks for your note, can you explain how this is different from what we already use?\nRegards, Jordan", "label": "question"}
+{"id": 145, "text": "Hello, I left the company last month. Please remove this address and contact the team inbox.\nThanks, Jordan", "label": "wrong_person"}
+{"id": 146, "text": "Hi, is there a free trial, and who owns the data?\nSent from my phone, Priya", "label": "question"}
+{"id": 147, "text": "Hi there, I'll pass on this one.\nSent from my phone, Lee", "label": "not_interested"}
+{"id": 148, "text": "Hi, do you integrate with HubSpot and Slack?\nRegards", "label": "question"}
+{"id": 149, "text": "Thanks for your note, do you integrate with HubSpot and Slack?\nBest", "label": "question"}
+{"id": 150, "text": "Hi, do you integrate with HubSpot and Slack?\nRegards", "label": "question"}
+{"id": 151, "text": "Hey, bad timing for us. Reach out again after the new year.\nSent from my phone", "label": "not_now"}
+{"id": 152, "text": "Thanks for your note, we're all set on this, please don't follow up.", "label": "not_interested"}
+{"id": 153, "text": "Hi there, great timing, we were about to start on this. Who should I loop in?\nThanks", "label": "interested"}
+{"id": 154, "text": "Good morning, I no longer work at this company.\nSent from my phone", "label": "wrong_person"}
+{"id": 155, "text": "Good morning, I'll pass on this one.\nRegards", "label": "not_interested"}
+{"id": 156, "text": "Thanks for your note, please unsubscribe me from this list.\nCheers", "label": "unsubscribe"}
+{"id": 157, "text": "Hi, do you support calls as well as email?\nRegards, Jordan", "label": "question"}
+{"id": 158, "text": "Thanks for your note, wrong person, I'm in finance. Forwarding you to the right contact.\nRegards, Alex", "label": "wrong_person"}
+{"id": 159, "text": "Hey, bad timing for us. Reach out again after the new year.\nBest", "label": "not_now"}
+{"id": 160, "text": "Thanks for your note, is there a free trial, and who owns the data?\nBest, Lee", "label": "question"}
+{"id": 161, "text": "Hi there, no, thanks. We have an in house team for this.\nThanks", "label": "not_interested"}
+{"id": 162, "text": "Thanks, but we are happy with what we have and are not looking to change.\nRegards, Sam", "label": "not_interested"}
+{"id": 163, "text": "Sounds good, send me a few times that work for you.\nSent from my phone", "label": "interested"}
+{"id": 164, "text": "Hi there, please unsubscribe me from this list.\nBest, Chen", "label": "unsubscribe"}
+{"id": 165, "text": "Thanks for your note, do not contact me again.\nRegards, Alex", "label": "unsubscribe"}
+{"id": 166, "text": "Good morning, I no longer work at this company.\nSent from my phone", "label": "wrong_person"}
+{"id": 167, "text": "Thanks for your note, good idea but we cannot take it on this half. Ping me later.\nSent from my phone, Noor", "label": "not_now"}
+{"id": 168, "text": "We just signed with another provider, so please circle back in six months.", "label": "not_now"}
+{"id": 169, "text": "Hi there, opt out please. No more messages.\nThanks, Priya", "label": "unsubscribe"}
+{"id": 170, "text": "Thanks for reaching out, which plan would a team of 10 need?\nBest, Lee", "label": "question"}
+{"id": 171, "text": "Hi, we're all set on this, please don't follow up.\nThanks, Chen", "label": "not_interested"}
+{"id": 172, "text": "Hello, this looks interesting. Can we book a call this week?\nBest, Jordan", "label": "interested"}
+{"id": 173, "text": "Hello, no thank you, this is not for us.\nThanks, Sam", "label": "not_interested"}
+{"id": 174, "text": "Hi, we have a freeze on new tools until our budget review. Try me in January.\nSent from my phone, Noor", "label": "not_now"}
+{"id": 175, "text": "Good morning, we're all set on this, please don't follow up.\nSent from my phone", "label": "not_interested"}
+{"id": 176, "text": "Good morning, no, thanks. We have an in house team for this.\nBest", "label": "not_interested"}
+{"id": 177, "text": "Thanks for your note, interesting, but we are not looking at anything until next quarter. Check back then.\nCheers, Taylor", "label": "not_now"}
+{"id": 178, "text": "Hi, take me off every list you have, and do not contact this address again.\nRegards, Noor", "label": "unsubscribe"}
+{"id": 179, "text": "Not interested, thanks.", "label": "not_interested"}
+{"id": 180, "text": "Hi there, let's talk. I can do Tuesday or Wednesday morning.", "label": "interested"}
+{"id": 181, "text": "Hello, we have a freeze on new tools until our budget review. Try me in January.", "label": "not_now"}
+{"id": 182, "text": "Sounds good, send me a few times that work for you.\nBest", "label": "interested"}
+{"id": 183, "text": "Hi there, what does the setup involve and how long does it take?\nSent from my phone, Maria", "label": "question"}
+{"id": 184, "text": "Good morning, can you explain how this is different from what we already use?\nCheers", "label": "question"}
+{"id": 185, "text": "Hi, what does the setup involve and how long does it take?", "label": "question"}
+{"id": 186, "text": "Thanks for your note, we just signed with another provider, so please circle back in six months.\nBest, Jordan", "label": "not_now"}
+{"id": 187, "text": "Hey, interesting, but we are not looking at anything until next quarter. Check back then.\nThanks, Jordan", "label": "not_now"}
+{"id": 188, "text": "Hey, can you follow up in the spring? We are full until then.\nCheers", "label": "not_now"}
+{"id": 189, "text": "Hi, let's talk. I can do Tuesday or Wednesday morning.", "label": "interested"}
+{"id": 190, "text": "That's not my area. Our operations lead is the one to ask.\nThanks, Sam", "label": "wrong_person"}
+{"id": 191, "text": "Thanks for your note, we have a freeze on new tools until our budget review. Try me in January.\nThanks, Jordan", "label": "not_now"}
+{"id": 192, "text": "Hi, do not contact me again.\nThanks, Alex", "label": "unsubscribe"}
+{"id": 193, "text": "Interesting, but we are not looking at anything until next quarter. Check back then.\nRegards", "label": "not_now"}
+{"id": 194, "text": "Hi, wrong person, I'm in finance. Forwarding you to the right contact.\nRegards", "label": "wrong_person"}
+{"id": 195, "text": "Thanks for your note, I left the company last month. Please remove this address and contact the team inbox.\nThanks, Maria", "label": "wrong_person"}
+{"id": 196, "text": "Hey, that's not my area. Our operations lead is the one to ask.", "label": "wrong_person"}
+{"id": 197, "text": "Good morning, can you tell me more about how the reporting works?\nSent from my phone", "label": "question"}
+{"id": 198, "text": "Thanks for reaching out, good idea but we cannot take it on this half. Ping me later.\nRegards, Priya", "label": "not_now"}
+{"id": 199, "text": "Hey, good idea but we cannot take it on this half. Ping me later.\nBest, Jordan", "label": "not_now"}
+{"id": 200, "text": "Thanks for your note, this is not relevant to our business.\nSent from my phone, Lee", "label": "not_interested"}
+{"id": 201, "text": "Hi, thanks, but we are happy with what we have and are not looking to change.\nSent from my phone", "label": "not_interested"}
+{"id": 202, "text": "Thanks for your note, how much does the platform cost?\nCheers", "label": "question"}
+{"id": 203, "text": "Hi, take me off every list you have, and do not contact this address again.\nThanks", "label": "unsubscribe"}
+{"id": 204, "text": "Hey, this looks interesting. Can we book a call this week?\nSent from my phone, Lee", "label": "interested"}
+{"id": 205, "text": "Hey, great timing, we were about to start on this. Who should I loop in?\nThanks", "label": "interested"}
+{"id": 206, "text": "Hey, I'm not the right person for this. Try our head of operations.\nRegards", "label": "wrong_person"}
+{"id": 207, "text": "Hi there, stop emailing me. Take me off your list now.\nThanks, Maria", "label": "unsubscribe"}
+{"id": 208, "text": "I did not sign up for these. Unsubscribe me immediately.\nSent from my phone", "label": "unsubscribe"}
+{"id": 209, "text": "Good morning, which plan would a team of 10 need?\nBest, Priya", "label": "question"}
+{"id": 210, "text": "Hi, stop emailing me. Take me off your list now.", "label": "unsubscribe"}
+{"id": 211, "text": "Hi, wrong person, I'm in finance. Forwarding you to the right contact.\nRegards, Dana", "label": "wrong_person"}
+{"id": 212, "text": "Hi there, I no longer work at this company.\nThanks, Chen", "label": "wrong_person"}
+{"id": 213, "text": "Thanks for reaching out, you may want to talk to my colleague Maria, who owns this area.\nThanks, Jordan", "label": "wrong_person"}
+{"id": 214, "text": "Thanks for your note, do you support calls as well as email?\nBest", "label": "question"}
+{"id": 215, "text": "Bad timing for us. Reach out again after the new year.\nCheers", "label": "not_now"}
+{"id": 216, "text": "Thanks for reaching out, can you tell me more about how the reporting works?", "label": "question"}
+{"id": 217, "text": "Hello, we have a freeze on new tools until our budget review. Try me in January.\nCheers", "label": "not_now"}
+{"id": 218, "text": "Thanks for your note, not interested, thanks.\nSent from my phone", "label": "not_interested"}
+{"id": 219, "text": "Hey, I don't handle this. Please reach out to Priya in marketing.\nThanks, Taylor", "label": "wrong_person"}
+{"id": 220, "text": "Good morning, remove me from your mailing list.\nSent from my phone", "label": "unsubscribe"}
+{"id": 221, "text": "Thanks for reaching out, can you follow up in the spring? We are full until then.", "label": "not_now"}
+{"id": 222, "text": "Thanks for your note, no, thanks. We have an in house team for this.\nThanks, Chen", "label": "not_interested"}
+{"id": 223, "text": "Hello, I did not sign up for these. Unsubscribe me immediately.\nBest, Priya", "label": "unsubscribe"}
+{"id": 224, "text": "I'm not the right person for this. Try our head of operations.\nCheers", "label": "wrong_person"}
+{"id": 225, "text": "Can you follow up in the spring? We are full until then.\nBest, Alex", "label": "not_now"}
+{"id": 226, "text": "This is not relevant to our business.", "label": "not_interested"}
+{"id": 227, "text": "Thanks for reaching out, no thank you, this is not for us.", "label": "not_interested"}
+{"id": 228, "text": "Thanks for your note, please unsubscribe me from this list.\nCheers", "label": "unsubscribe"}
+{"id": 229, "text": "Thanks for your note, that's not my area. Our operations lead is the one to ask.\nSent from my phone", "label": "wrong_person"}
+{"id": 230, "text": "This looks interesting. Can we book a call this week?\nSent from my phone, Dana", "label": "interested"}
+{"id": 231, "text": "I left the company last month. Please remove this address and contact the team inbox.\nCheers, Sam", "label": "wrong_person"}
+{"id": 232, "text": "We just signed with another provider, so please circle back in six months.\nRegards, Maria", "label": "not_now"}
+{"id": 233, "text": "Thanks for reaching out, sounds good, send me a few times that work for you.\nRegards", "label": "interested"}
+{"id": 234, "text": "Good morning, do not contact me again.\nRegards", "label": "unsubscribe"}
+{"id": 235, "text": "Happy to chat. How about Thursday at 3?\nThanks, Taylor", "label": "interested"}
+{"id": 236, "text": "Thanks for your note, stop emailing me. Take me off your list now.\nRegards, Jordan", "label": "unsubscribe"}
+{"id": 237, "text": "Hi, I left the company last month. Please remove this address and contact the team inbox.\nBest", "label": "wrong_person"}
+{"id": 238, "text": "Thanks for your note, I'll pass on this one.\nRegards, Taylor", "label": "not_interested"}
+{"id": 239, "text": "Thanks for reaching out, we don't need the platform. Good luck though.\nRegards", "label": "not_interested"}
+{"id": 240, "text": "Which plan would a team of 10 need?", "label": "question"}
+{"id": 241, "text": "Hey, not interested, thanks.\nCheers, Maria", "label": "not_interested"}
+{"id": 242, "text": "Hello, can you follow up in the spring? We are full until then.", "label": "not_now"}
+{"id": 243, "text": "Hi, we just signed with another provider, so please circle back in six months.", "label": "not_now"}
+{"id": 244, "text": "This looks interesting. Can we book a call this week?\nBest", "label": "interested"}
+{"id": 245, "text": "Hey, I left the company last month. Please remove this address and contact the team inbox.", "label": "wrong_person"}
+{"id": 246, "text": "Which plan would a team of 10 need?", "label": "question"}
+{"id": 247, "text": "Good morning, please unsubscribe me from this list.\nThanks, Sam", "label": "unsubscribe"}
+{"id": 248, "text": "Thanks for reaching out, please stop sending me emails about the offer.\nBest", "label": "unsubscribe"}
+{"id": 249, "text": "Do not contact me again.\nSent from my phone", "label": "unsubscribe"}
+{"id": 250, "text": "Hello, how much does your service cost?\nBest, Chen", "label": "question"}
+{"id": 251, "text": "Hey, not the right contact for this, sorry. I'll forward your note.\nCheers, Jordan", "label": "wrong_person"}
+{"id": 252, "text": "Thanks for reaching out, you may want to talk to my colleague Lee, who owns this area.\nCheers, Lee", "label": "wrong_person"}
+{"id": 253, "text": "Hello, which plan would a team of 10 need?\nBest", "label": "question"}
+{"id": 254, "text": "Hi, do you integrate with HubSpot and Slack?\nRegards", "label": "question"}
+{"id": 255, "text": "Hello, bad timing for us. Reach out again after the new year.\nSent from my phone", "label": "not_now"}
+{"id": 256, "text": "Hello, I'd like to learn more and schedule 20 minutes next week.\nThanks", "label": "interested"}
+{"id": 257, "text": "How much does your service cost?\nSent from my phone", "label": "question"}
+{"id": 258, "text": "Hey, this looks interesting. Can we book a call this week?\nSent from my phone", "label": "interested"}
+{"id": 259, "text": "Hello, happy to chat. How about Thursday at 3?\nBest, Noor", "label": "interested"}
+{"id": 260, "text": "Hi there, let's talk. I can do Tuesday or Wednesday morning.\nThanks", "label": "interested"}
+{"id": 261, "text": "Hi there, we have been looking for exactly this. I'd like to see a demo.\nCheers, Alex", "label": "interested"}
+{"id": 262, "text": "Thanks for your note, I'll pass on this one.\nCheers, Lee", "label": "not_interested"}
+{"id": 263, "text": "Hi, remove me from your mailing list.\nCheers", "label": "unsubscribe"}
+{"id": 264, "text": "Thanks for your note, can you tell me more about how the reporting works?\nSent from my phone, Priya", "label": "question"}
+{"id": 265, "text": "Hey, I no longer work at this company.\nRegards", "label": "wrong_person"}
+{"id": 266, "text": "Hello, this looks interesting. Can we book a call this week?\nRegards", "label": "interested"}
+{"id": 267, "text": "Good morning, bad timing for us. Reach out again after the new year.\nThanks, Lee", "label": "not_now"}
+{"id": 268, "text": "I left the company last month. Please remove this address and contact the team inbox.\nThanks, Dana", "label": "wrong_person"}
+{"id": 269, "text": "Hi there, I'd like to learn more and schedule 20 minutes next week.\nCheers, Sam", "label": "interested"}
+{"id": 270, "text": "Thanks for reaching out, good idea but we cannot take it on this half. Ping me later.\nSent from my phone, Alex", "label": "not_now"}
+{"id": 271, "text": "Thanks for your note, remove me from your mailing list.", "label": "unsubscribe"}
+{"id": 272, "text": "Hey, I'll pass on this one.\nSent from my phone", "label": "not_interested"}
+{"id": 273, "text": "Hi, no, thanks. We have an in house team for this.", "label": "not_interested"}
+{"id": 274, "text": "Hello, let's talk. I can do Tuesday or Wednesday morning.\nSent from my phone", "label": "interested"}
+{"id": 275, "text": "Hey, how much does the offer cost?\nCheers, Jordan", "label": "question"}
+{"id": 276, "text": "Good morning, good idea but we cannot take it on this half. Ping me later.\nBest", "label": "not_now"}
+{"id": 277, "text": "Thanks for your note, which plan would a team of 10 need?\nCheers, Taylor", "label": "question"}
+{"id": 278, "text": "Good morning, we're all set on this, please don't follow up.\nBest, Maria", "label": "not_interested"}
+{"id": 279, "text": "Good morning, let's talk. I can do Tuesday or Wednesday morning.\nThanks, Chen", "label": "interested"}
+{"id": 280, "text": "Thanks for reaching out, can you follow up in the spring? We are full until then.\nRegards, Noor", "label": "not_now"}
+{"id": 281, "text": "Good morning, this looks interesting. Can we book a call this week?", "label": "interested"}
+{"id": 282, "text": "Thanks for your note, great timing, we were about to start on this. Who should I loop in?", "label": "interested"}
+{"id": 283, "text": "Thanks for reaching out, stop emailing me. Take me off your list now.\nThanks", "label": "unsubscribe"}
+{"id": 284, "text": "Hi, which plan would a team of 10 need?\nBest, Dana", "label": "question"}
+{"id": 285, "text": "Thanks for your note, not now, but keep me on your list for later this year.", "label": "not_now"}
+{"id": 286, "text": "Hi there, I'll pass on this one.\nThanks", "label": "not_interested"}
+{"id": 287, "text": "Good morning, please stop sending me emails about the platform.\nSent from my phone, Alex", "label": "unsubscribe"}
+{"id": 288, "text": "Hello, I'd like to learn more and schedule 20 minutes next week.\nCheers", "label": "interested"}
+{"id": 289, "text": "Thanks for reaching out, good idea but we cannot take it on this half. Ping me later.\nCheers", "label": "not_now"}
+{"id": 290, "text": "Thanks for reaching out, what does the setup involve and how long does it take?\nRegards, Jordan", "label": "question"}
+{"id": 291, "text": "Opt out please. No more messages.\nCheers", "label": "unsubscribe"}
+{"id": 292, "text": "Hi, do not contact me again.\nBest", "label": "unsubscribe"}
+{"id": 293, "text": "Not now, but keep me on your list for later this year.\nBest", "label": "not_now"}
+{"id": 294, "text": "Thanks for reaching out, I left the company last month. Please remove this address and contact the team inbox.", "label": "wrong_person"}
+{"id": 295, "text": "Hey, happy to chat. How about Thursday at 3?\nCheers, Alex", "label": "interested"}
+{"id": 296, "text": "Happy to chat. How about Thursday at 3?\nBest", "label": "interested"}
+{"id": 297, "text": "Hey, please unsubscribe me from this list.\nSent from my phone, Dana", "label": "unsubscribe"}
+{"id": 298, "text": "Thanks for reaching out, do not contact me again.\nCheers, Chen", "label": "unsubscribe"}
+{"id": 299, "text": "Hi, how much does your service cost?\nCheers", "label": "question"}
+{"id": 300, "text": "Thanks for reaching out, please stop sending me emails about what you built.", "label": "unsubscribe"}

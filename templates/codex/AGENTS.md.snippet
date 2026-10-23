@@ -1,0 +1,8 @@
+## Jev decisions (add this to your project's AGENTS.md)
+
+When code you write for me needs a fast judgment about text (route, classify, score, detect, check a draft), use Jev
+through `tools/jev.py`. Read `.claude/skills/jev-decisions/SKILL.md` (or `templates/claude-code/skills/jev-decisions/SKILL.md`)
+for the rules. In short: 1 specific question per judgment; a confidence gate on every decision (below 0.8 goes to a
+person); never use Jev to write text, do maths or compare dates; pin the model version in production; keep the API key
+only in `TYPESAFE_API_KEY` or a git ignored `.env`, never in chat, logs or commits; anything that sends, deletes, pays
+or blocks needs a rule or my approval; test on made up data only.

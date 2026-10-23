@@ -1,0 +1,32 @@
+{
+  "name": "Outbound message guardrail",
+  "description": "Check a drafted message before it is sent.",
+  "use_when": "On every AI written message, email or text, as the last step before sending. Hold anything that fails and show it to a person.",
+  "thresholds": {
+    "hold_if_any_noul_at_least": 0.5,
+    "hold_if_tone_at_least": 2
+  },
+  "questions": {
+    "unsupported_claim": {
+      "type": "noul",
+      "instructions": "The message states a result, number or fact about the recipient or about us that could be invented"
+    },
+    "personal_detail_risk": {
+      "type": "noul",
+      "instructions": "The message mentions a personal detail about the recipient that is not in the given facts"
+    },
+    "aggressive_tone": {
+      "type": "score",
+      "instructions": "How pushy or aggressive the message sounds",
+      "criteria": [
+        "Polite",
+        "A little pushy",
+        "Aggressive"
+      ]
+    },
+    "promises_results": {
+      "type": "noul",
+      "instructions": "The message guarantees a result or makes a promise we may not keep"
+    }
+  }
+}

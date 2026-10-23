@@ -1,0 +1,24 @@
+{
+  "name": "Automated message detector",
+  "description": "Separate real replies from out of office, bounces and spam.",
+  "use_when": "First step in reply handling, so automated mail never reaches the sales flow.",
+  "thresholds": {
+    "human_if_confidence_below": 0.8
+  },
+  "questions": {
+    "message_kind": {
+      "type": "choice",
+      "instructions": "What kind of message is this",
+      "criteria": {
+        "human_reply": "A person wrote a real reply",
+        "out_of_office": "An automatic out of office message",
+        "bounce": "A delivery failure notice",
+        "spam": "Spam or an unrelated promotion"
+      }
+    },
+    "has_return_date": {
+      "type": "noul",
+      "instructions": "The message says when the person will be back"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Support triage",
+  "description": "Route a customer message and measure urgency and risk.",
+  "use_when": "For inbound support or account emails and chat messages.",
+  "thresholds": {
+    "human_if_churn_risk_at_least": 0.6
+  },
+  "questions": {
+    "department": {
+      "type": "choice",
+      "instructions": "Which team should handle this",
+      "criteria": {
+        "billing": "Payment or subscription issues",
+        "technical": "Bugs or integration problems",
+        "sales": "Pricing or account questions"
+      }
+    },
+    "is_urgent": {
+      "type": "noul",
+      "instructions": "The message conveys urgency or time-sensitivity"
+    },
+    "frustration": {
+      "type": "score",
+      "instructions": "How frustrated the customer appears",
+      "criteria": [
+        "Calm, just stating facts",
+        "Frustrated but civil",
+        "Very angry, strong language"
+      ]
+    },
+    "refund_request": {
+      "type": "noul",
+      "instructions": "The customer asks for a refund"
+    },
+    "churn_risk": {
+      "type": "noul",
+      "instructions": "The customer says or implies they may cancel or leave"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Call transcript signals",
+  "description": "Pull yes or no signals out of a call transcript for the CRM.",
+  "use_when": "On each call transcript, one question per CRM field, never a single big question.",
+  "thresholds": {
+    "human_if_confidence_below": 0.8
+  },
+  "questions": {
+    "asked_about_price": {
+      "type": "noul",
+      "instructions": "The prospect asked about price or cost"
+    },
+    "mentioned_competitor": {
+      "type": "noul",
+      "instructions": "The prospect mentioned another provider"
+    },
+    "decision_maker_present": {
+      "type": "noul",
+      "instructions": "The person on the call can make or approve the decision"
+    },
+    "buying_signal": {
+      "type": "score",
+      "instructions": "Strength of the buying signals in the call",
+      "criteria": [
+        "None",
+        "Some",
+        "Strong"
+      ]
+    },
+    "follow_up_requested": {
+      "type": "noul",
+      "instructions": "The prospect asked for a follow up or more information"
+    }
+  }
+}
